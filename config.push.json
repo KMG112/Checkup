@@ -1,0 +1,21 @@
+{
+  "apn": {
+    "passphrase": "12345678",  
+    "key": "apnProdKey.pem",
+    "cert": "apnProdCert.pem"
+  },
+  "apn-dev": {
+    "passphrase": "12345678",
+    "key": "apnDevKey.pem",
+    "cert": "apnDevCert.pem"
+  },  
+  "gcm": {
+    "apiKey": "AIzaSyDcdTiaGDBLTHC96BEA2zwi2T2mnrZu1bg",
+    "projectNumber": 681947602344
+  },
+  "production": true,
+  // "badge": true,
+  // "sound": true,
+  // "alert": true,
+  // "vibrate": true
+}
