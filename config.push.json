@@ -1,12 +1,11 @@
 {
-  "apn": {
-    "passphrase": "oldlady123",  
-    "key": "apnProdKey.pem",
-    "cert": "apnProdCert.pem"
-  },
   "gcm": {
     "apiKey": "AIzaSyDcdTiaGDBLTHC96BEA2zwi2T2mnrZu1bg",
     "projectNumber": 681947602344
   },
-  "production": true
+  "production": false,
+  "badge": true,
+  "sound": true,
+  "alert": true,
+  "vibrate": true
 }
